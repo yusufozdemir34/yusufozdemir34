@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yusufozdemir34
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently working recommendation system.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m 
 - 📫 you can reach me by myusufozdemir@gmail.com
 
 <!---
